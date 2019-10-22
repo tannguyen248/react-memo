@@ -1,0 +1,12 @@
+.Item {
+  border: 1px solid white;
+  color: white;
+  cursor: pointer;
+  height: 150px;
+  margin: 10px;
+  width: 150px;
+}
+
+.ItemSelected {
+  border: 1px solid red;
+}
